@@ -1,1 +1,13 @@
-{"key1":"value1", "key2":"value2"}
+{
+  "key1": "value1",
+  "key2": "value2",
+  "lastUpdated": "2026-11-23T09:54:27.651Z",
+  "status": "active",
+  "records": [
+    {
+      "id": 101,
+      "name": "New Record",
+      "enabled": true
+    }
+  ]
+}
